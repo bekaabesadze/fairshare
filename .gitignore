@@ -1,0 +1,10 @@
+node_modules/
+web/dist/
+ios/build/
+server/data/
+xcuserdata/
+.DS_Store
+*.log
+.env
+report.pdf
+report.xlsx
